@@ -11,4 +11,3 @@ for i in range(9):
 
 
 
-print(str(index[0])+' '+str(index[1]))
